@@ -1,17 +1,8 @@
+.DS_Store
 node_modules/
-.idea/
-.vagrant/
-npm-debug.log
 dist/
-
-
-app/assets/css/
-
-# Bootstrap
-app/assets/vendors/bootstrap/**
-!app/assets/vendors/bootstrap/dist/
-
-# FontAwesome
-app/assets/vendors/font-awesome/**
-!app/assets/vendors/font-awesome/css/
-!app/assets/vendors/font-awesome/fonts/
+npm-debug.log
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+source/assets/
