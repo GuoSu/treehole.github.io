@@ -1,0 +1,34 @@
+{
+  "name": "theme-next-docs",
+  "version": "2.0.0",
+  "description": "Documetation for NexT theme.",
+  "main": "index.html",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-tap": "^0.1.3",
+    "highlight.js": "^9.2.0",
+    "js-yaml": "^3.5.4",
+    "nunjucks": "^2.3.0",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iissnan/theme-next-docs.git"
+  },
+  "keywords": [
+    "NexT",
+    "Hexo"
+  ],
+  "author": "iissnan <iissnan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iissnan/theme-next-docs/issues"
+  },
+  "homepage": "https://github.com/iissnan/theme-next-docs#readme"
+}
